@@ -4,4 +4,4 @@
 
 
 This library helps you compute score against MMLU, BBH, simple Math dataset and identifies how your Foundational model is doing w.r.t. to other commercially available models
-![alt text](images/metric2.png)
+![alt text](images/metric.png)
