@@ -3,7 +3,6 @@
  - LLM evaluation framework where processing all evaluation metrics is done for you
 
 
-
 This library helps you compute score against MMLU, BBH, simple Math dataset and identifies how your Foundational model is doing w.r.t. to other commercially available models
 ![alt text](images/metric.png)
 
